@@ -1,0 +1,16 @@
+.action{
+    display: flex;
+    justify-content:end ;
+}
+.action .button{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #00687a;
+    color: white;
+    text-decoration: none;
+}
+.action .button:hover{
+    background-color: #004d5c;
+    box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.1);
+}

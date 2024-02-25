@@ -1,0 +1,28 @@
+.product-table{
+    padding: 20px;
+    background-color: #eef4f6;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.product-table table{
+    width: 100%;
+    /*border-left: 1px solid #e0e0e0;*/
+    /*border-right: 1px solid #e0e0e0;*/
+    background-color: #eef4f6;
+}
+.product-table table th{
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #e0e0e0;
+}
+.product-table table tr{
+    border-bottom: 1px solid #e0e0e0;
+}
+.product-table table tr:last-child{
+    padding: 10px;
+    border-bottom: none;
+}
+.product-table table td{
+    padding: 10px;
+    text-align: left;
+}

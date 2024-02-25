@@ -1,0 +1,17 @@
+.add-product-form{
+    padding: 20px;
+    background-color: #eef4f6;
+    border-radius: 20px;
+}
+.add-product-submit-form{
+    border: none;
+    padding: 10px 20px;
+    border-radius: 20px;
+    background-color: #00687a;
+    color: white;
+    text-decoration: none;
+}
+.add-product-submit-form:hover{
+    background-color: #004d5c;
+    box-shadow: 0 0 4px 1px rgba(0, 0, 0, 0.1);
+}
